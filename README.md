@@ -16,5 +16,5 @@ Random Quote Generator - приложение «Random Quote Generator» с ис
 
 - ## Как запустить
 - '''bash
-- git clone https://github.com/memem00/randomquotegenerator.git cd randomquotegenerato
+- git clone https://github.com/memem00/bleble.git cd 
 - python main.ry
